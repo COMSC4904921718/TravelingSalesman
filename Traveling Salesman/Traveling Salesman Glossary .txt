@@ -1,0 +1,1 @@
+min() - Returns the min value of what is input.
